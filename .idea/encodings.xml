@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/bookstore-framework/bookstore-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bookstore-framework/bookstore-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-framework/bookstore-spring-boot-starter-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-framework/bookstore-spring-boot-starter-security/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bookstore-framework/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bookstore-framework/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bookstore-module-book/bookstore-module-book-api/src/main/java" charset="UTF-8" />
@@ -11,6 +13,18 @@
     <file url="file://$PROJECT_DIR$/bookstore-module-book/bookstore-module-book-biz/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bookstore-module-book/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bookstore-module-book/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-infra/bookstore-module-infra-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-infra/bookstore-module-infra-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-infra/bookstore-module-infra-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-infra/bookstore-module-infra-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-infra/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-infra/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-user/bookstore-module-user-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-user/bookstore-module-user-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-user/bookstore-module-user-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-user/bookstore-module-user-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bookstore-module-user/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bookstore-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bookstore-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />

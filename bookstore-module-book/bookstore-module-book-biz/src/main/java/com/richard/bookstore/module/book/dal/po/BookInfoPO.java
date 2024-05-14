@@ -45,6 +45,16 @@ public class BookInfoPO {
     private String isbn;
 
     /**
+     * 封面地址
+     */
+    private String imgUrl;
+
+    /**
+     * 文件地址
+     */
+    private String fileUrl;
+
+    /**
      * 创建时间
      */
     private Date createTime;

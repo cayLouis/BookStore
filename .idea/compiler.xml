@@ -19,9 +19,14 @@
           <entry name="$PROJECT_DIR$/../../../apache-maven-3.9.6/respository/org/mapstruct/mapstruct/1.5.5.Final/mapstruct-1.5.5.Final.jar" />
         </processorPath>
         <module name="bookstore-server" />
-        <module name="bookstore-module-book-api" />
         <module name="bookstore-module-book-biz" />
+        <module name="bookstore-module-infra-biz" />
         <module name="bookstore-common" />
+        <module name="bookstore-module-user-biz" />
+        <module name="bookstore-module-book-api" />
+        <module name="bookstore-spring-boot-starter-security" />
+        <module name="bookstore-module-infra-api" />
+        <module name="bookstore-module-user-api" />
       </profile>
     </annotationProcessing>
   </component>

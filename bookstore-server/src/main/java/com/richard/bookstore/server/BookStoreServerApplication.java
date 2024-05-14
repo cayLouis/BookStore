@@ -4,7 +4,6 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import javax.annotation.Resource;
 
 @SpringBootApplication(scanBasePackages = {"com.richard.bookstore"})
 @MapperScan("com.richard.bookstore.module.book.dal.mapper")

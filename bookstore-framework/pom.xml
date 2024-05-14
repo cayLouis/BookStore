@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>bookstore-common</module>
+        <module>bookstore-spring-boot-starter-security</module>
     </modules>
 
     <properties>

@@ -29,6 +29,11 @@
         <module>bookstore-server</module>
         <module>bookstore-module-book</module>
         <module>bookstore-framework</module>
+        <module>bookstore-module-infra</module>
+        <module>bookstore-module-infra/bookstore-module-infra-api</module>
+        <module>bookstore-module-infra/bookstore-module-infra-biz</module>
+        <module>bookstore-framework/bookstore-common</module>
+        <module>bookstore-module-user</module>
     </modules>
 
     <dependencyManagement>
